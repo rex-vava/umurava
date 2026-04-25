@@ -1,0 +1,21 @@
+{
+  "name": "umurava",
+  "version": "1.0.0",
+  "description": "SkillPulse is a full-stack recruitment platform that helps recruiters screen resumes faster and more fairly using Gemini AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rex-vava/umurava.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rex-vava/umurava/issues"
+  },
+  "homepage": "https://github.com/rex-vava/umurava#readme"
+}
